@@ -1,6 +1,6 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
 
-# SEIR Project 1 Gallery
+# SEIR Project 1 Gallery 🎉
 
 ### Congrats on finishing your first ever SEIR project! 
 
