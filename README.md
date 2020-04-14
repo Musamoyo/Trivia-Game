@@ -6,7 +6,7 @@
 
 ![Yay](https://media.giphy.com/media/LSNqpYqGRqwrS/giphy.gif)
 
-### Submission Instructions
+## Submission Instructions
 - Submit your project as an issue on this repo. 
 - Be sure to include a link to your repo as well as the deployed game!
 - If there is a particular area where you'd like feedback, please specify in the comments/questions.
