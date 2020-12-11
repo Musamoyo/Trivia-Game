@@ -2,9 +2,7 @@
 
 # SEIR Project 1 Gallery 🎉
 
-### Congrats on finishing your first ever SEIR project! 
-
-![Yay](https://media.giphy.com/media/LSNqpYqGRqwrS/giphy.gif)
+You've come to right place :)
 
 ## Submission Instructions
 - Submit your project as an issue on this repo. 
