@@ -1,7 +1,7 @@
 ---
 name: Project submission
 about: Submitting project links
-title: YOUR FULL NAME
+title: YOUR FULL NAME | Your Section
 labels: ''
 assignees: ''
 
